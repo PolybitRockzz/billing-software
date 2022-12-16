@@ -1,2 +1,2 @@
 # billing-software
-A Java billing software, using SQL.
+A Java billing software.
